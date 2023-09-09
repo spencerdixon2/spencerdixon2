@@ -8,7 +8,7 @@
 
 - <b>Microsoft Azure</b>
   - [Creating Resources With Azure](https://github.com/spencerdixon2/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/spencerdixon2/azure-network-protocols)
+  - [Creating Virtual Machines with Azure](https://github.com/spencerdixon2/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 [linkedin]: https://linkedin.com/in/spencerdixon2/
